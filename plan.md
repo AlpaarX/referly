@@ -78,3 +78,7 @@ Conclusion
 This plan outlines the essential steps and technologies for building a job postings full-stack app. Adapt the plan as needed based on your specific requirements and user feedback. Good luck with your project!
 
 6. How to store media (avatars, pictures)
+
+# CMD:
+
+pip install Flask Flask-SQLAlchemy flask-cors flask-bcrypt flask-jwt-extended Flask-Migrate
